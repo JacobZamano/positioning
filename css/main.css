@@ -1,6 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Poor-Story');
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Spectral');
+
+body{
+    margin:0;
+}
 
 html {
     background-color: lightgray;
